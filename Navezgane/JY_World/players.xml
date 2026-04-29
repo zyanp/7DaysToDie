@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="00023f633e034f65a3746d19971b7cc4" nativeplatform="Steam" nativeuserid="76561198866629592" playername="Jan" playgroup="Standalone" lastlogin="2026-04-18 21:49:52" position="480,61,744">
+  <player platform="EOS" userid="00023f633e034f65a3746d19971b7cc4" nativeplatform="Steam" nativeuserid="76561198866629592" playername="Jan" playgroup="Standalone" lastlogin="2026-04-29 21:06:19" position="477,61,745">
     <acl platform="EOS" userid="0002d1f767964a3ea63854608af5d9b1" />
     <bedroll pos="480,61,744" />
   </player>
-  <player platform="EOS" userid="0002d1f767964a3ea63854608af5d9b1" nativeplatform="Steam" nativeuserid="76561199152858011" playername="sekiho" playgroup="Standalone" lastlogin="2026-04-18 21:49:52" position="479,65,763">
+  <player platform="EOS" userid="0002d1f767964a3ea63854608af5d9b1" nativeplatform="Steam" nativeuserid="76561199152858011" playername="sekiho" playgroup="Standalone" lastlogin="2026-04-29 21:06:19" position="479,65,758">
     <acl platform="EOS" userid="00023f633e034f65a3746d19971b7cc4" />
     <bedroll pos="479,61,744" />
   </player>
